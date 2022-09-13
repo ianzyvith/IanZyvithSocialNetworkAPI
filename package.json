@@ -1,0 +1,24 @@
+{
+  "name": "ianzyvithsocialnetworkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianzyvith/IanZyvithSocialNetworkAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianzyvith/IanZyvithSocialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/ianzyvith/IanZyvithSocialNetworkAPI#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0"
+  }
+}
